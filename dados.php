@@ -1,28 +1,27 @@
 <?php
 $filmes = [
-    'Vingadores: Ultimato' => [
+    'Interestelar' => [
         'atores' => [
-            ['nome' => 'Robert Downey Jr.', 'foto' => 'robert.jpg'],
-            ['nome' => 'Chris Evans', 'foto' => 'chris.webp'],
-            ['nome' => 'Scarlett Johansson', 'foto' => 'scarllet.webp']
+            ['nome' => 'Matthew McConaughey', 'foto' => 'matthew.jpg'],
+            ['nome' => 'Anne Hathaway', 'foto' => 'anne.webp']
         ]
     ],
-    'Mad Max: Estrada da Fúria' => [
+    'O Lobo de Wall Street' => [
         'atores' => [
-            ['nome' => 'Tom Hardy', 'foto' => 'tom.webp'],
-            ['nome' => 'Charlize Theron', 'foto' => 'charlize.webp']
+            ['nome' => 'Leonardo DiCaprio', 'foto' => 'leo.webp'],
+            ['nome' => 'Margot Robbie', 'foto' => 'margot.webp']
         ]
     ],
-    'A Vida é Bela' => [
+    'Django Livre' => [
         'atores' => [
-            ['nome' => 'Roberto Benigni', 'foto' => 'roberto.webp'],
-            ['nome' => 'Nicoletta Braschi', 'foto' => 'nicoletta.webp']
+            ['nome' => 'Jamie Foxx', 'foto' => 'jamie.webp'],
+            ['nome' => 'Christoph Waltz', 'foto' => 'waltz.webp']
         ]
     ],
-    'O Grande Lebowski' => [
+    'A Origem' => [
         'atores' => [
-            ['nome' => 'Jeff Bridges', 'foto' => 'bridges.webp'],
-            ['nome' => 'John Goodman', 'foto' => 'jhon.webp']
+            ['nome' => 'Joseph Gordon-Levitt', 'foto' => 'joseph.webp'],
+            ['nome' => 'Elliot Page', 'foto' => 'elliot.webp']
         ]
     ]
 ];
